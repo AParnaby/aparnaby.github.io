@@ -13,8 +13,6 @@ The game leverages the form and aesthetics of tarot to provide a simple way to c
 
 We then compiled these visions into a manifesto for young people, which was distributed ahead of the 2019 UK general election. You can read the manifesto [here](https://www.barnardos.org.uk/sites/default/files/uploads/%23ItsOurFuture%20-%20Let%27s%20build%20it%20together_1.pdf).
 
-<br/>
-
 ### Lily of Lumley
 
 With a team of designers at [Escape Rooms Durham](https://www.escapedurham.co.uk/), we designed [Lily of Lumley](https://www.escapedurham.co.uk/lilyoflumley), an innovative and immersive escape room game in historic Lumley Castle. The game was heavily inspired by the history and folklore of the castle, and contains a great many twists, turns, and puzzles. Unfortunately, if I told you about them, it would spoil the experience, but you can read some press coverage [here](https://www.chroniclelive.co.uk/whats-on/whats-on-news/look-inside-lumley-castle-escape-15819793)!
