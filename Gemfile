@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #gem "jekyll", "~> 4.3.2"
 gem "webrick"
+gem "font-awesome-sass"
 
 group :jekyll_plugins do
     gem "jekyll-feed"
