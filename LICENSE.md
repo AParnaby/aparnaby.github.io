@@ -1,5 +1,8 @@
 MIT License
 
+Copyright (c) 2023 Adam Parnaby
+
+Based on code by Nicolas Vanhoren:
 Copyright (c) 2018 Nicolas Vanhoren
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
