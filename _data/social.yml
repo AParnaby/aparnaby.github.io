@@ -1,7 +1,7 @@
 - name: Twitter
-  icon: fab fa-twitter
+  icon: fa-brands fa-twitter
   url: https://twitter.com/ParnabyAdam
 
 - name: LinkedIn
-  icon: fab fa-linkedin
+  icon: fa-brands fa-linkedin
   url: https://www.linkedin.com/in/aparnaby/
