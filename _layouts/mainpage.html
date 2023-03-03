@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article>
+
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <section>
+    {{ content }}
+  </section>
+
+  <section>
+    {% for social in site.data.social %}
+  <a class="social-link" href="{{ social.url }}" target="_blank" rel="noopener noreferrer">
+    <i class="{{ social.icon }}" aria-label="{{ social.name }}"></i>
+  </a>
+{% endfor %}
+  </section>
+
+</article>
