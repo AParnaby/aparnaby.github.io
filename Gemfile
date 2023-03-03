@@ -8,7 +8,13 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#gem "jekyll", "~> 3.7.3"
+#gem "jekyll", "~> 4.3.2"
+gem "webrick"
+
+group :jekyll_plugins do
+    gem "jekyll-feed"
+    gem "jekyll-sitemap"
+end
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

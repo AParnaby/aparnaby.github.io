@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Adam Parnaby
+title: Hi!
 ---
-
-Hi! 
 
 I'm Adam, and I do design, user research, and teaching people how to do design and user research. 
 
@@ -11,6 +9,6 @@ I specialise in digital access - meaning I try to ask and answer questions about
 
 Details of my projects can be found in the sections at the top of this page.
 
-If you are interested in getting involved in my academic research, you can contact me at a.w.parnaby2@newcastle.ac.uk
+If you are interested in getting involved in my academic research, you can contact me at [a.w.parnaby2@newcastle.ac.uk](mailto:a.w.parnaby2@newcastle.ac.uk).
 
-If you would like to inquire about freelance user research work, or having me speak at your organisation or event, please instead use contact@adamparnaby.com
+If you would like to inquire about freelance user research work, or having me speak at your organisation or event, please instead use [contact@adamparnaby.com](mailto:contact@adamparnaby.com).
