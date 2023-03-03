@@ -3,8 +3,8 @@ layout: page
 title: PhD Research
 permalink: /phd/
 ---
-
-I am currently working on a PhD in Digital Civics at Open Lab, Newcastle University.
+<br/>
+I am currently working on a PhD in Digital Civics at [Open Lab, Newcastle University](https://openlab.ncl.ac.uk/).
 
 The working title of the project is "Enabling Digital Access in Community Contexts". In it, I am trying to answer the following questions:
 
@@ -16,7 +16,7 @@ In exploring these questions, my collaborators and I have identified that a lot 
 
 To address this, we aim to develop a toolkit that supports people doing digital inclusion work in libraries, community centres, GP practices and so on to better capture their intuitive understanding of what needs to happen, and use those insights to push for systemic change.
 
-## Tackling Digital Poverty Report
+### Tackling Digital Poverty Report
 
 Working with [VONNE](https://www.vonne.org.uk/) and [Not-Equal](https://not-equal.tech/) in the context of COVID lockdowns in the UK, we explored digital poverty with range of practitioners doing digital inclusion work in the North East of England. We collectively constructed a list of needs, assets, and values possessed by these practitioners, and used them to make recommendations for changes to the local digital inclusion landscape that would enhance their work.
 
