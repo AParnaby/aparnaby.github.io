@@ -21,3 +21,11 @@ To address this, we aim to develop a toolkit that supports people doing digital 
 Working with [VONNE](https://www.vonne.org.uk/) and [Not-Equal](https://not-equal.tech/) in the context of COVID lockdowns in the UK, we explored digital poverty with range of practitioners doing digital inclusion work in the North East of England. We collectively constructed a list of needs, assets, and values possessed by these practitioners, and used them to make recommendations for changes to the local digital inclusion landscape that would enhance their work.
 
 The full report can be found [here](https://www.vonne.org.uk/tackling-digital-poverty-north-east-lessons-learned-regions-vcse-community).
+
+Here's what Anne Fry, Deputy CEO of VONNE at the time of this work, had to say about working with me on the project:
+
+>“Adam approached our working relationship from the perspective of valuing the contribution of the VCSE sector as an equal partner. He was always keen to understand the reality of what small charities are working to achieve, and the challenges they face. This meant he was open to influence and keen to ensure the outputs from his work were of relevance to VONNE and our stakeholders, and the charities and participants themselves. 
+>
+>As a result, the findings from Adams’ research with the sector went on to influence funders and stakeholders and was used in national work with the National Council for Voluntary Organisations.
+>
+>At a personal level, Adam is a joy to with work and I hope to do so again in the future!”
