@@ -13,4 +13,4 @@ Details of my projects can be found in the sections at the top of this page.
 
 If you are interested in getting involved in my academic research, you can contact me at [a.w.parnaby2@newcastle.ac.uk](mailto:a.w.parnaby2@newcastle.ac.uk).
 
-If you would like to inquire about freelance user research work, or having me speak at your organisation or event, please instead use [contact@adamparnaby.com](mailto:contact@adamparnaby.com).
+If you would like to inquire about my consulting services, freelance user research work, or having me speak at your organisation or event, please instead use [contact@adamparnaby.com](mailto:contact@adamparnaby.com).
